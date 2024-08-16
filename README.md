@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthdesai24/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
