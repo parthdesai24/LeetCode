@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/parthdesai24/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/parthdesai24/LeetCode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/parthdesai24/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/parthdesai24/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
