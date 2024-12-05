@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/parthdesai24/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/parthdesai24/LeetCode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/parthdesai24/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -73,5 +75,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
