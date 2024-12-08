@@ -1,31 +1,34 @@
 class Solution {
 public:
+    bool valid(char ch) {
+        return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') ||
+               (ch >= '0' && ch <= '9');
+    }
 
-string normalizeString(const string& s) {
-    string normalized;
-    for (char c : s) {
-        if (isalnum(c)) {
-            normalized += tolower(c);
+    char toLowerCase(char ch) {
+        if (ch >= 'A' && ch <= 'Z') {
+            return ch - 'A' + 'a';
         }
+        return ch;
     }
-    return normalized;
-}
+    bool isPalindrome(string s) {
+        int right = s.size()-1;
+        int left = 0;
 
-// Recursive function to check if a string is a palindrome
-bool isPalindromeRecursive(const string& s, int i) {
-    int n = s.size();
-    if (i >= n/2) {
+        while (left < right) {
+
+            while (left < right && !valid(s[left]))
+                left++;
+            while (left < right && !valid(s[right]))
+                right--;
+
+            if (toLowerCase(s[left]) != toLowerCase(s[right])) {
+                return false;
+            }
+            left++;
+            right--;
+        }
         return true;
-    }
-    if (s[i] != s[n-i-1]) {
-        return false;
-    }
-    return isPalindromeRecursive(s, i+ 1 );
-}
-    bool isPalindrome(string s) 
-    {
-        string St = normalizeString(s);
-        return isPalindromeRecursive(St,0);
     }
 };
 
