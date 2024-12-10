@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
