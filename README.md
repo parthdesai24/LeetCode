@@ -18,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
