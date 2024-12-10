@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/parthdesai24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -102,6 +103,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/parthdesai24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
