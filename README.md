@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/parthdesai24/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parthdesai24/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parthdesai24/LeetCode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/parthdesai24/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/parthdesai24/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/parthdesai24/LeetCode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/parthdesai24/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
