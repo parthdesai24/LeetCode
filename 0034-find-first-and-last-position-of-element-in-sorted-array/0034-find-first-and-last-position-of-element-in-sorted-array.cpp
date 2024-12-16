@@ -1,40 +1,44 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        if(nums.size() == 0) {
-            return {-1, -1};
+    int findLeftBound(vector<int>& nums, int target) {
+        int n = nums.size();
+        int index = -1, low = 0;
+        int high = n - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                index = mid;
+                high = mid - 1; // Look in the left sub-array
+            } else if (nums[mid] < target)
+                low = mid + 1;
+            else
+                high = mid - 1;
         }
 
-        int f = lower_bound(nums, target);
-        if(f == -1 || nums[f] != target) {
-            return {-1, -1};
-        }
-
-        int nf = lower_bound(nums, target+1);
-        if(nf == -1) {
-            return {f, (int)(nums.size())-1};
-        } else {
-            return {f, nf-1};
-        }
+        return index;
     }
+    int findRightBound(vector<int>& nums, int target) {
+        int n = nums.size();
+        int index = -1, low = 0;
+        int high = n - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-    int lower_bound(vector<int>&nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-        
-        while(low<high) {
-            int mid = (low+high)/2;
-            if(nums[mid] >= target) {
-                high = mid;
-            } else if(nums[mid] < target) {
-                low = mid+1;
-            }
+            if (nums[mid] == target) {
+                index = mid;
+                low = mid + 1; // Look in the right sub-array
+            } else if (nums[mid] < target)
+                low = mid + 1;
+            else
+                high = mid - 1;
         }
 
-        if(nums[low] >= target) {
-            return low;
-        } else {
-            return -1;
-        }
+        return index;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int left = findLeftBound(nums, target);
+        int right = findRightBound(nums, target);
+        return {left, right};
     }
 };
