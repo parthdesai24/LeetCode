@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/parthdesai24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/parthdesai24/LeetCode/tree/master/0792-binary-search) |
@@ -142,6 +143,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthdesai24/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/parthdesai24/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
