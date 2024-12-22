@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/parthdesai24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@
 | [0053-maximum-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parthdesai24/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -152,6 +155,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthdesai24/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/parthdesai24/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/parthdesai24/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthdesai24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
