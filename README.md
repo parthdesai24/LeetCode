@@ -42,6 +42,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthdesai24/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@
 | [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
