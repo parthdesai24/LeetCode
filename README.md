@@ -47,6 +47,7 @@
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
@@ -186,6 +187,7 @@
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
