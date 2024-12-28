@@ -48,6 +48,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
