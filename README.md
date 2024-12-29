@@ -84,12 +84,14 @@
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/parthdesai24/LeetCode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
