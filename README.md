@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthdesai24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
