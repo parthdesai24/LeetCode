@@ -85,6 +85,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/parthdesai24/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
