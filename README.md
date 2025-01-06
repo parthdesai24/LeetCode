@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
+| [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -106,6 +107,7 @@
 | [0012-integer-to-roman](https://github.com/parthdesai24/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/parthdesai24/LeetCode/tree/master/0069-sqrtx) |
+| [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -135,6 +137,7 @@
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
+| [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
