@@ -45,6 +45,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthdesai24/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -95,6 +96,7 @@
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
