@@ -95,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/parthdesai24/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
