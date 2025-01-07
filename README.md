@@ -66,6 +66,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/parthdesai24/LeetCode/tree/master/1666-make-the-string-great) |
+| [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/parthdesai24/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -141,6 +143,7 @@
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
@@ -148,6 +151,7 @@
 | [0169-majority-element](https://github.com/parthdesai24/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/0229-majority-element-ii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/parthdesai24/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Backtracking
 |  |
