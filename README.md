@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthdesai24/LeetCode/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/parthdesai24/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
@@ -125,6 +127,7 @@
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/parthdesai24/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -247,6 +250,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -260,6 +264,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
 | ------- |
