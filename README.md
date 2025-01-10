@@ -76,6 +76,7 @@
 | [0015-3sum](https://github.com/parthdesai24/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parthdesai24/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parthdesai24/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +91,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthdesai24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/parthdesai24/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/parthdesai24/LeetCode/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/parthdesai24/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
@@ -268,5 +270,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
