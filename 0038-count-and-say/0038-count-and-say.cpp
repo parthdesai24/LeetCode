@@ -1,27 +1,21 @@
 class Solution {
 public:
-    
-string countAndSay(int n) {
-    string result = "1"; // Base case for n = 1
+    string countAndSay(int n) {
+        if (n == 1)
+            return "1";
 
-    for (int i = 2; i <= n; i++) {
-        string current = "";
-        int count = 1;
+        string say = countAndSay(n - 1);
+        string result = "";
+        for(int i = 0; i< say.length(); i++){
+            int ch = say[i];
+            int count = 1;
 
-        for (int j = 1; j < result.size(); j++) {
-            if (result[j] == result[j - 1]) {
-                count++; // Count consecutive characters
-            } else {
-                current += to_string(count) + result[j - 1]; // Append count and character
-                count = 1; // Reset count
+            while(i < say.length()-1 && say[i] == say[i+1]){
+                count++;
+                i++;
             }
+            result += to_string(count) + string(1, ch);
         }
-
-        // Append the last group
-        current += to_string(count) + result.back();
-        result = current; // Update result for next iteration
+        return result;
     }
-
-    return result;
-}
 };
