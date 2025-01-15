@@ -67,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0889-buddy-strings](https://github.com/parthdesai24/LeetCode/tree/master/0889-buddy-strings) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -103,6 +104,7 @@
 | [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/parthdesai24/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/parthdesai24/LeetCode/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/parthdesai24/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
