@@ -54,6 +54,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/parthdesai24/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/parthdesai24/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2792-neighboring-bitwise-xor](https://github.com/parthdesai24/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -240,6 +241,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/parthdesai24/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/parthdesai24/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Sliding Window
 |  |
 | ------- |
