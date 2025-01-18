@@ -44,6 +44,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parthdesai24/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/parthdesai24/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/parthdesai24/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthdesai24/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -186,6 +187,7 @@
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthdesai24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -263,6 +265,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -282,4 +285,16 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/parthdesai24/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
