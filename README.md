@@ -117,6 +117,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/parthdesai24/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/parthdesai24/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -128,6 +129,7 @@
 | [0069-sqrtx](https://github.com/parthdesai24/LeetCode/tree/master/0069-sqrtx) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/parthdesai24/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
