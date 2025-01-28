@@ -112,6 +112,7 @@
 | [0520-detect-capital](https://github.com/parthdesai24/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/parthdesai24/LeetCode/tree/master/0889-buddy-strings) |
+| [0916-decoded-string-at-index](https://github.com/parthdesai24/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/parthdesai24/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/parthdesai24/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0916-decoded-string-at-index](https://github.com/parthdesai24/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthdesai24/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/parthdesai24/LeetCode/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
