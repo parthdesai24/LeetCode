@@ -325,4 +325,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/parthdesai24/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/parthdesai24/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
