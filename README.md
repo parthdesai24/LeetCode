@@ -50,6 +50,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthdesai24/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parthdesai24/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/parthdesai24/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/parthdesai24/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2294-minimum-time-to-complete-trips](https://github.com/parthdesai24/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
