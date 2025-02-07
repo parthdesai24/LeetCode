@@ -83,6 +83,7 @@
 | [0015-3sum](https://github.com/parthdesai24/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/parthdesai24/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/parthdesai24/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthdesai24/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
@@ -332,6 +333,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthdesai24/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/parthdesai24/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/parthdesai24/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/parthdesai24/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
