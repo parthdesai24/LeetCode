@@ -22,6 +22,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthdesai24/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/parthdesai24/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/parthdesai24/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthdesai24/LeetCode/tree/master/0162-find-peak-element) |
@@ -268,6 +269,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/parthdesai24/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/parthdesai24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/parthdesai24/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/parthdesai24/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
