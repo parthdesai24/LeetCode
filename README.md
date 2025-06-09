@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/parthdesai24/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/parthdesai24/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthdesai24/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parthdesai24/LeetCode/tree/master/0118-pascals-triangle) |
@@ -113,6 +114,7 @@
 | [0014-longest-common-prefix](https://github.com/parthdesai24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/parthdesai24/LeetCode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/parthdesai24/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthdesai24/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/parthdesai24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parthdesai24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/parthdesai24/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/parthdesai24/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/parthdesai24/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## Divide and Conquer
 |  |
@@ -213,6 +216,7 @@
 | [0054-spiral-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/parthdesai24/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/parthdesai24/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parthdesai24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/parthdesai24/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/parthdesai24/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -292,6 +296,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/parthdesai24/LeetCode/tree/master/0079-word-search) |
 | [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/parthdesai24/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
