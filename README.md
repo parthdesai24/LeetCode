@@ -64,6 +64,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/parthdesai24/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthdesai24/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/parthdesai24/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/parthdesai24/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthdesai24/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3227-find-missing-and-repeated-values](https://github.com/parthdesai24/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/parthdesai24/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/parthdesai24/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/parthdesai24/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/parthdesai24/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/parthdesai24/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2737-row-with-maximum-ones](https://github.com/parthdesai24/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/parthdesai24/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
