@@ -82,6 +82,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthdesai24/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthdesai24/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/parthdesai24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/parthdesai24/LeetCode/tree/master/0889-buddy-strings) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/parthdesai24/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1777-determine-if-two-strings-are-close](https://github.com/parthdesai24/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -106,6 +107,7 @@
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/parthdesai24/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/parthdesai24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/parthdesai24/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthdesai24/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parthdesai24/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -131,6 +133,7 @@
 | [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/parthdesai24/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/parthdesai24/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/parthdesai24/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/parthdesai24/LeetCode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/parthdesai24/LeetCode/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/parthdesai24/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthdesai24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/parthdesai24/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
