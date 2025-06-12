@@ -4,13 +4,6 @@ public:
         return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') ||
                (ch >= '0' && ch <= '9');
     }
-
-    char toLowerCase(char ch) {
-        if (ch >= 'A' && ch <= 'Z') {
-            return ch - 'A' + 'a';
-        }
-        return ch;
-    }
     bool isPalindrome(string s) {
         int right = s.size()-1;
         int left = 0;
@@ -22,7 +15,7 @@ public:
             while (left < right && !valid(s[right]))
                 right--;
 
-            if (toLowerCase(s[left]) != toLowerCase(s[right])) {
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
             left++;
