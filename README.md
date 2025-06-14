@@ -128,6 +128,7 @@
 | [0242-valid-anagram](https://github.com/parthdesai24/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/parthdesai24/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/parthdesai24/LeetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/parthdesai24/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/parthdesai24/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/parthdesai24/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/parthdesai24/LeetCode/tree/master/0472-concatenated-words) |
@@ -156,6 +157,7 @@
 | [0048-rotate-image](https://github.com/parthdesai24/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/parthdesai24/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/parthdesai24/LeetCode/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/parthdesai24/LeetCode/tree/master/0415-add-strings) |
 | [0935-orderly-queue](https://github.com/parthdesai24/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/parthdesai24/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/parthdesai24/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/parthdesai24/LeetCode/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/parthdesai24/LeetCode/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/parthdesai24/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/parthdesai24/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
